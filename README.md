@@ -1,7 +1,9 @@
 # Audio Analysis
 
 ## Step 1: Install the libraries- Librosa, Numpy, Matplotlib
-### pip install librosa matplotlib numpy jupyter
+```bash
+pip install librosa matplotlib numpy jupyter
+```
 
 ## Step 2: Convert the audio to a waveform.
 
