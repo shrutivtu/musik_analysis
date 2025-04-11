@@ -14,7 +14,7 @@
 pip install librosa matplotlib numpy jupyter
 ```
 
-### This notebook has mainly divided into two parts. 
+### This notebook has been mainly divided into two parts. 
 
 - First is where we do the mandatory objectives mentioned in the test document. It includes researching about the suitable library, converting audio to a format which can be read and analysed by library. Estimating tempo, beat positions and its visualization in different ways. Here are the main results in brief-
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/5d13e455-5ffd-481f-8914-5cc5ab64bfdb" />
